@@ -1,0 +1,24 @@
+# Build
+/target/
+/bin/
+/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env*
+!.env.example
+
+# Database
+*.db
+*.db-shm
+*.db-wal
